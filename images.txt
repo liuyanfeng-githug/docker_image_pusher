@@ -1,3 +1,1 @@
 alpine
-missuo/freegpt35
-linyuanmuyu/proto_to_php:latest
